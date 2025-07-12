@@ -1,6 +1,7 @@
 
+# This project is a fork from MLJAR AutoML just to add f1 macro scro as evaluating metric
 
-# MLJAR Automated Machine Learning for Humans
+# MLJAR Automated Machine Learning for Humans - Original readme when the fork was made
 
 [![Tests status](https://github.com/mljar/mljar-supervised/actions/workflows/run-tests.yml/badge.svg)](https://github.com/mljar/mljar-supervised/actions/workflows/run-tests.yml)
 [![PyPI version](https://badge.fury.io/py/mljar-supervised.svg)](https://badge.fury.io/py/mljar-supervised)
