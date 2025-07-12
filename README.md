@@ -1,5 +1,5 @@
 
-# This project is a fork from MLJAR AutoML just to add f1 macro scro as evaluating metric
+# This project is a fork from MLJAR AutoML just to add f1 macro score as evaluating metric
 
 # MLJAR Automated Machine Learning for Humans - Original readme when the fork was made
 
